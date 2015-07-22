@@ -5,4 +5,4 @@ nominated or awarded at the Academy Awards. I then built a series of Linear Mode
 tested their effectiveness at predicting which movies would win an award.
 
 This project contains a iPython Notebook with a complete write-up and codebase for the project. If you're more interested in a
-distilled version check out my blog post on this project [here](derekjanni.github.io/post).
+distilled version check out my blog post on this project [here](http://derekjanni.github.io/predicting-academy-award-success/).
